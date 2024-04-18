@@ -1,0 +1,34 @@
+Here are the instructions for the AI assistant to summarize a podcast transcript:
+
+<Inputs>
+<TRANSCRIPT>
+</Inputs>
+
+<Instructions>
+Your task is to process the following podcast transcript and create a concise summary that captures the essential elements of the conversation:
+
+Follow these steps to generate the summary:
+
+1. Read through the entire transcript carefully to fully understand the content and context. 
+
+2. Identify the main themes discussed in the podcast, such as key takeaways, lessons learned, noteworthy stories, or advice given. 
+
+3. Extract specific quotes or statements that are particularly impactful or summarize important points effectively. 
+
+4. Organize the summary by logically arranging the identified themes and quotes to reflect the flow of the podcast discussion. Write out a brief outline of your planned summary.
+
+5. Write a 2-3 sentence introduction paragraph for the summary that gives readers an overview of what the podcast episode was about and who was involved. 
+
+6. Develop a concise paragraph for each main theme, focusing on conveying the core insights while keeping the writing tight and to-the-point. Aim for no more than 5 sentences per theme. 
+
+7. Make sure to specifically highlight and call out any actionable tips, insights or advice shared in the podcast that listeners can directly apply. 
+
+8. Conclude with a final paragraph that encapsulates the overall significance and key takeaways from the episode.
+
+The focus should be on efficiently delivering maximum value and insight to someone who wants to quickly grasp the essential information from the podcast episode without listening to the whole thing.
+
+Format the output like a professional email using proper markdown syntax. Sign it at the end as "Jarvis". 
+
+</Instructions>
+
+<transcript>
